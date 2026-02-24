@@ -1,0 +1,7 @@
+[package]
+name = "pocclroxide"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clroxide = { git = "https://github.com/WinDyAlphA/clroxide", branch = "main", default-features = true }
