@@ -143,4 +143,4 @@ fn main() {
 - [ClrOxide (fork) — WinDyAlphA](https://github.com/WinDyAlphA/clroxide)
 - [Being a Good CLR Host — xforcered](https://github.com/xforcered/Being-A-Good-CLR-Host)
 - [ECMA-335 — Common Language Infrastructure](https://ecma-international.org/publications-and-standards/standards/ecma-335/)
-- [clroxide (upstream) — b4rtik](https://github.com/b4rtik/clroxide)
+- [clroxide (upstream) — yamakadi](https://github.com/yamakadi/clroxide/tree/main)
