@@ -1,4 +1,4 @@
-# pocclroxide
+# PoC-ClrDeOxide
 
 PoC minimal démontrant l'utilisation de [ClrOxide (fork)](https://github.com/WinDyAlphA/clroxide) pour exécuter un assembly .NET en mémoire avec bypass AMSI via `IHostAssemblyStore` (`Load_2`).
 
